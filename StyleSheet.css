@@ -1,5 +1,6 @@
 ﻿body {
-    background-image: url(backgroundmc.png);
+    background-attachment: fixed;
+    background-image: url(8067_5f87828ef3ab365f1e81247860357c3d.jpg);
 }
 title{
     color: #994f00
@@ -32,12 +33,64 @@ a {
     text-decoration: none;
     width: 470px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 30px;
     font-size: 20px;
 }
 
     a:hover {
-        background: #00729D;
+        background: #ffa100;
+    }
+.gameboy {
+    transform: translate(500px, -50px);
+    display: block;
+    background: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 375px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+    .gameboy:hover {
+        background: #ffa100;
+    }
+
+.gameboyrainbow {
+    transform: translate(905px, -100px);
+    display: block;
+    background: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 375px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+    .gameboyrainbow:hover {
+        background: #ffa100;
+    }
+.creeper {
+    transform: translate(0px, 5px);
+    display: block;
+    background: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 375px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+    .creeper:hover {
+        background: #ffa100;
     }
 div {
     color: gold;
@@ -46,9 +99,9 @@ div {
 }
 div1{
     color:black;
-    font_size:25px;
+    font-size:25px;
     font-family:Cooper;
 }
-div2{
-    
+.test{
+
 }
