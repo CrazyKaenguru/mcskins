@@ -1,3 +1,54 @@
 ﻿body {
-    background: orange;
+    background-image: url(backgroundmc.png);
+}
+title{
+    color: #994f00
+    
+        
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+    /* Darker background on mouse-over */
+    .btn:hover {
+        background-color: RoyalBlue;
+    }
+
+
+
+a {
+    display: block;
+    background: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 470px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+    a:hover {
+        background: #00729D;
+    }
+div {
+    color: gold;
+    font-size: 40px;
+    font-family: Cooper;
+}
+div1{
+    color:black;
+    font_size:25px;
+    font-family:Cooper;
+}
+div2{
+    
 }
