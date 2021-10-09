@@ -1,9 +1,13 @@
 ﻿body {
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-image: url(8067_5f87828ef3ab365f1e81247860357c3d.jpg);
+    
 }
 title{
-    color: #994f00
+    
+    text-shadow: 10px 50px 3px red,
+    
     
         
 }
@@ -102,6 +106,15 @@ div1{
     font-size:25px;
     font-family:Cooper;
 }
-.test{
+.container {
+   display:flex;
+   background:white;
+   padding:30px;
+}
+.whitecontainer{
+    color:black;
+    font-family:sans-serif;
+    font-size:20px;
 
 }
+
